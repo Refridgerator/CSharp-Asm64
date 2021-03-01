@@ -1,0 +1,4 @@
+LIBRARY   HT
+EXPORTS
+   ht_cpp   @1
+   ht_asm   @2
